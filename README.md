@@ -222,7 +222,3 @@ adb install my-tv.apk
 * 节目增加预告
 * 频道列表优化
 * 自动更新
-
-## 赞赏
-
-![image](./screenshots/appreciate.jpeg)
